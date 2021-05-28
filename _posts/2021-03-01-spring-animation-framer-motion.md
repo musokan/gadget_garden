@@ -10,6 +10,7 @@ mathjax: true
 * content
 {:toc}
 
+<font color="red">現在このブログ・サイトに掲載中のすべての記事は、記事投稿のテストのためのものです。</font>
 前端动画的开发一直是我所热衷探索与研究的内容，本文将描述什么是拟真的动画效果，目前所流行的 React 动画库，以及一些基于 framer-motion 动画库的 demos。
 
 
