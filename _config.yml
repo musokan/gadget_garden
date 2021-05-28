@@ -7,9 +7,9 @@
 
 # Site settings
 title: Gadget Garden
-brief-intro: By an Internet Technology Engineer
-baseurl: "/gadget_garden" # the subpath of your site, e.g. /blog
-url: "https://musokan.github.io" # the base hostname & protocol for your site
+brief-intro: By an Information Technology Engineer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.gadget-garden.dev" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
